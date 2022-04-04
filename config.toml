@@ -2,6 +2,16 @@
 # Refer to the theme docs for more details about each of these parameters.
 # https://jpanther.github.io/congo/docs/getting-started/
 
+
+
+
+### DO NOT USE THIS FILE. 
+### IT IS USED TO FORCE DO TO RECOGNIZE HUGO
+### THE REAL CONFIG IS IN config/_default/config.toml
+
+
+
+
 baseURL = ""
 defaultContentLanguage = "en"
 theme = "congo"
