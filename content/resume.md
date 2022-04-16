@@ -6,20 +6,27 @@ showTableOfContents: false
 showAuthor: false
 showDate: false
 showPagination: false
-showTitle: false
 layout: "simple"
 ---
+
 <script type="text/javascript">
   document.documentElement.classList.remove("dark");
   document.documentElement.classList.remove("gibs");
 </script>
 
+<center>
+
 # Brian Gibson
 
-## Work Experience
----
+{{< icon "linkedin" >}} [linkedin.com/in/brianlg](https://linkedin.com/in/brianlg) | 
+{{< icon "github" >}} [github.com/brianlg](https://github.com/brianlg) | 
+{{< icon "email" >}} [brianlg@pm.me](mailto:brianlg@pm.me)
+</center>
 
-**Amazon ([Zappos.com](https://zappos.com)), Product Manager II** | *Jun 2020 - Present*
+## Work Experience
+
+**Amazon ([Zappos.com](https://zappos.com)), Product Manager II** \
+*Jun 2020 - Present* | Las Vegas, NV
 
 
 *Joined pricing to redesign and improve on key functionalities of the Zappos pricing engine and user-facing pricing modules. Responsible for setting long-term vision, building roadmap, and executing on objectives for all backend pricing systems.*
@@ -28,7 +35,8 @@ layout: "simple"
   * Secured alignment with Amazon’s Retail Pricing Team with 3-year vision document detailing Zappos integration with Amazon's pricing platform.
   * Implemented Zappos' end-to-end competitive pricing system, reducing manual efforts by 8 hours per week and improving site competitiveness. 
 
-**Amazon ([Zappos.com](https://zappos.com)), Product Manager I** | *Sep 2017 - Jun 2020*
+**Amazon ([Zappos.com](https://zappos.com)), Product Manager I** \
+*Sep 2017 - Jun 2020* | Las Vegas, NV
 
 *Responsible for collaborating with internal stakeholders to identify business opportunities, process efficiencies, defining requirements, and creating user stories for enhancing our data warehouse and BI tool.*
 
@@ -37,22 +45,22 @@ layout: "simple"
   * Established and implemented Business Requirements Document template and Project Intake Form helping the product team improve productivity and visibility into roadmaps and initiatives. 
   * Developed and maintained dashboards for KPI tracking. 
 
-**Amazon ([Zappos.com](https://zappos.com)), Business Analyst** | *Jan 2016 - Aug 2017*
+**Amazon ([Zappos.com](https://zappos.com)), Business Analyst** \
+*Jan 2016 - Aug 2017* | Las Vegas, NV
 
 *Responsible for identifying and realizing business opportunity by identifying, automating and enhancing manual processes.*
 
   * Supported $83M business unit by surfacing recommendations for inventory management, sales objectives, and areas of opportunity that aligned with current business strategies. 
   
 ## Education 
----
 
-**Walsh University** | *Fall 2011*
+**Walsh University** \
+*Fall 2011* | North Canton, OH
 
-B.A., Communication, cum laude
+B.A., Communication, cum laude \
 Minor, General Business
 
 ## Skills
-------
 
 **Languages** :   SQL, Postgres, Redshift SQL, R, RShiny
 
