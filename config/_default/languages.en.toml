@@ -13,10 +13,10 @@ title = "gib.sh"
 dateFormat = "2 January 2006"
 
 [author]
-  name = "BG"
+  name = "Brian Gibson"
   image = "img/author.jpg"
   # headline = "I'm only human"
-  # bio = "A little bit about you"
+  bio = "Current Product Manager at Zappos.com"
   links = [
      { email = "mailto:brian@briangibson.co" },
   #   { link = "https://link-to-some-website.com/" },

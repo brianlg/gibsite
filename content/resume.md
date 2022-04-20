@@ -11,7 +11,6 @@ layout: "simple"
 
 <script type="text/javascript">
   document.documentElement.classList.remove("dark");
-  document.documentElement.classList.remove("gibs");
 </script>
 
 <center>
@@ -62,6 +61,6 @@ Minor, General Business
 
 ## Skills
 
-**Languages** :   SQL, Postgres, Redshift SQL, R, RShiny
+**Languages** :   SQL (Postgres, Redshift SQL), R 
 
-**Tools** :   AWS, Salesforce, Atlassian, Visio, Photoshop
+**Tools** :   AWS, Salesforce, Atlassian, Visio, Tableau
