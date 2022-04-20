@@ -24,7 +24,7 @@ layout: "simple"
 
 ## Work Experience
 
-**Amazon ([Zappos.com](https://zappos.com)), Product Manager II** \
+**Amazon ([Zappos.com](https://zappos.com)), Product Manager II - Zappos Pricing Platform** \
 *Jun 2020 - Present* | Las Vegas, NV
 
 
@@ -34,7 +34,7 @@ layout: "simple"
   * Secured alignment with Amazon’s Retail Pricing Team with 3-year vision document detailing Zappos integration with Amazon's pricing platform.
   * Implemented Zappos' end-to-end competitive pricing system, reducing manual efforts by 8 hours per week and improving site competitiveness. 
 
-**Amazon ([Zappos.com](https://zappos.com)), Product Manager I** \
+**Amazon ([Zappos.com](https://zappos.com)), Product Manager I - Enterprise Systems and Reporting** \
 *Sep 2017 - Jun 2020* | Las Vegas, NV
 
 *Responsible for collaborating with internal stakeholders to identify business opportunities, process efficiencies, defining requirements, and creating user stories for enhancing our data warehouse and BI tool.*
