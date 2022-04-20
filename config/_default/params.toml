@@ -8,7 +8,7 @@
 colorScheme = "hallow"
 defaultAppearance = "light" # valid options: light or dark
 autoSwitchAppearance = false
-showAppearanceSwitcher = false
+showAppearanceSwitcher = true
 
 enableSearch = false
 enableCodeCopy = false
