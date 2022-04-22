@@ -19,7 +19,7 @@ layout: "simple"
 
 {{< icon "linkedin" >}} [linkedin.com/in/brianlg](https://linkedin.com/in/brianlg) | 
 {{< icon "github" >}} [github.com/brianlg](https://github.com/brianlg) | 
-{{< icon "email" >}} [brianlg@pm.me](mailto:brianlg@pm.me)
+{{< icon "email" >}} [brian@gib.sh](mailto:brian@gib.sh)
 </center>
 
 ## Work Experience
