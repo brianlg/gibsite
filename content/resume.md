@@ -24,9 +24,11 @@ layout: "simple"
 
 ## Work Experience
 
-**Amazon ([Zappos.com](https://zappos.com)), Product Manager II - Zappos Pricing Platform** \
-*Jun 2020 - Present* | Las Vegas, NV
+**[Workday](https://workday.com), Product Manager - Human Captital Management** \
+*Jun 2022 - Present* | Pleasanton, CA
 
+**Amazon ([Zappos.com](https://zappos.com)), Product Manager II - Zappos Pricing Platform** \
+*Jun 2020 - Jun 2022* | Las Vegas, NV
 
 *Joined pricing to redesign and improve on key functionalities of the Zappos pricing engine and user-facing pricing modules. Responsible for setting long-term vision, building roadmap, and executing on objectives for all backend pricing systems.*
 
